@@ -1,0 +1,11 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    height: 120vh;
+    background-image: url(./imagens/ateez4.jpg);
+    background-size: cover;
+}
